@@ -29,7 +29,7 @@ class _LoginState extends State<Login> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("LOGIN VERIFICATION PAGE"),
+        title: const Text("LOGIN"),
         centerTitle: true,
       ),
       body: SingleChildScrollView(
